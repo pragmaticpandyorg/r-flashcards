@@ -196,5 +196,14 @@
     "example": "\"The testimony is radically paratactic — event follows event without explanation or transition, as if the causal logic that might connect them has itself been destroyed by the experience it tries to convey.\"",
     "date": "2026-03-01",
     "day": 22
+  },
+  {
+    "word": "Prosopopoeia",
+    "pronunciation": "proh-soh-poh-PEE-uh",
+    "definition": "The rhetorical figure of giving voice or face to something absent, dead, abstract, or inanimate — making the silent speak.",
+    "origin": "From Greek prosōpon (\"face, person\") + poiein (\"to make\"). In classical rhetoric, it's the act of speaking as or for someone who can't speak for themselves — the dead addressing the living, a nation speaking through a document, an abstraction (\"Justice demands...\"). Paul de Man argued it's the master trope of all language about the self: autobiography is prosopopoeia because writing always constructs a \"face\" for a subject who isn't really present in the text. Once you see it, it's inescapable — every historical voice \"recovered\" from an archive, every political speech that begins \"The American people want...,\" every memoir that makes a past self speak — they're all giving face to an absence.",
+    "example": "\"The monument's inscription performs a prosopopoeia — the dead soldiers address the living in first person, transforming political commemoration into an uncanny scene of posthumous speech.\"",
+    "date": "2026-03-03",
+    "day": 23
   }
 ]
