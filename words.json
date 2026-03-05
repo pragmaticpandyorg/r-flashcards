@@ -205,5 +205,23 @@
     "example": "\"The monument's inscription performs a prosopopoeia — the dead soldiers address the living in first person, transforming political commemoration into an uncanny scene of posthumous speech.\"",
     "date": "2026-03-03",
     "day": 23
+  },
+  {
+    "word": "Pharmakon",
+    "pronunciation": "FAR-muh-kon",
+    "definition": "A substance that is simultaneously remedy and poison — and the impossibility of deciding which it \"really\" is.",
+    "origin": "From Greek φάρμακον. In ordinary Greek it already meant both \"cure\" and \"poison.\" Derrida seized on this in \"Plato's Pharmacy\" (1972), reading the Phaedrus where Socrates calls writing a pharmakon. Plato wants writing to be a poison (it weakens memory, it's a dead copy of living speech). But the word refuses to cooperate — it also means the cure. Derrida argues this undecidability reveals something Western metaphysics has been suppressing: that the categories we treat as stable oppositions (speech/writing, presence/absence, inside/outside) are contaminated by each other from the start. Now used across philosophy, literary criticism, media theory, science studies, and bioethics — anywhere someone argues that a technology, institution, or practice is constitutively double-edged.",
+    "example": "\"She framed social media as a pharmakon — not a tool that can be used well or badly, but a medium whose capacity to connect is structurally inseparable from its capacity to surveil, making any clean distinction between its therapeutic and toxic effects a philosophical impossibility.\"",
+    "date": "2026-03-04",
+    "day": 24
+  },
+  {
+    "word": "Subaltern",
+    "pronunciation": "SUB-ul-turn",
+    "definition": "A person or group rendered voiceless and without agency by dominant power structures — those who exist below the threshold of political representation.",
+    "origin": "Originally a military term (junior officer), Antonio Gramsci repurposed it in his Prison Notebooks to describe classes excluded from the power structure of colonial and capitalist society. Then Gayatri Chakravorty Spivak asked the question that broke an entire field open: \"Can the Subaltern Speak?\" (1988). Her answer — essentially, no — wasn't that these people literally can't talk, but that the structures of knowledge production (Western academia, colonial archives, legal systems) can't hear them without translating their speech into the dominant framework, which erases the very thing it claims to recover. Now foundational across postcolonial studies, critical theory, historiography, and development studies.",
+    "example": "\"The oral histories project claimed to 'give voice to the subaltern,' but Spivak's critique haunted the methodology — if the interview transcripts were coded through Western psychiatric categories, had the researchers simply reproduced the epistemic violence they set out to undo?\"",
+    "date": "2026-03-05",
+    "day": 25
   }
 ]
